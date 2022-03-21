@@ -1,0 +1,9 @@
+(function() {
+try {
+    ;mmUuidSync({"uuid": "785d6238-89ba-4900-aa3a-e671dbb70ae2"});
+}
+catch(ex)
+{
+   document.createElement("img").src="//pixel.mathtag.com/error/img?error_domain=wrap_js&what="+encodeURIComponent(ex.message);
+}
+})();
