@@ -1,0 +1,48 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "DatabaseProjectProgrammingSchool",
+			"path": "..\\AthenaSQL\\Testing SQL\\DatabaseProjectProgrammingSchool\\DatabaseProjectProgrammingSchool"
+		}
+	],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"mysqlOptions": {
+					"authProtocol": "default"
+				},
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 3306,
+				"askForPassword": true,
+				"driver": "MySQL",
+				"name": "Local1",
+				"username": "LBonneau",
+				"database": "master"
+			}
+		],
+		"workbench.colorCustomizations": {
+			"activityBar.activeBackground": "#426db0",
+			"activityBar.activeBorder": "#5d2339",
+			"activityBar.background": "#426db0",
+			"activityBar.foreground": "#e7e7e7",
+			"activityBar.inactiveForeground": "#e7e7e799",
+			"activityBarBadge.background": "#5d2339",
+			"activityBarBadge.foreground": "#e7e7e7",
+			"sash.hoverBorder": "#426db0",
+			"statusBar.background": "#34568b",
+			"statusBar.foreground": "#e7e7e7",
+			"statusBarItem.hoverBackground": "#426db0",
+			"statusBarItem.remoteBackground": "#34568b",
+			"statusBarItem.remoteForeground": "#e7e7e7",
+			"titleBar.activeBackground": "#34568b",
+			"titleBar.activeForeground": "#e7e7e7",
+			"titleBar.inactiveBackground": "#34568b99",
+			"titleBar.inactiveForeground": "#e7e7e799"
+		},
+		"peacock.color": "#34568B"
+	}
+}
