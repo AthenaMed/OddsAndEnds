@@ -74,8 +74,11 @@ return
 ::sig::
 (
 
-Thanks,
+All the best,
 
-Lacey
-she/her/hers
+Lacey Bonneau (she/her) | Client Services Analyst 
+
+E: LBonneau@WorldViewLTD.com
+O: 402-330-0210 ext. 1310
+
 )
