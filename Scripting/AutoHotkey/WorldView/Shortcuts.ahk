@@ -59,8 +59,9 @@ return
 ;Hotstrings
 ;------------------------------------------------------------------------------
 
+::ae:: Is there anything else I can help you with?
 
-
+::lmk:: Let me know if that works for you.
 
 
 
