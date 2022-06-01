@@ -59,9 +59,11 @@ return
 ;Hotstrings
 ;------------------------------------------------------------------------------
 
-::ae:: Is there anything else I can help you with?
+::ae::Is there anything else I can help you with?
 
-::lmk:: Let me know if that works for you.
+::lmk::Let me know if that works for you.
+
+::bookme::https://outlook.office365.com/owa/calendar/LaceyssheherBookings@livtech.com/bookings/
 
 
 
